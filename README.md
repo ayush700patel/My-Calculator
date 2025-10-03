@@ -1,69 +1,60 @@
-# My Calculator 🧮
+ My Calculator 🧮
 
-A simple and interactive calculator built using **React + Vite**.
+A simple and interactive calculator built using React + Vite.
 This project demonstrates how to create a basic calculator app with modern frontend tools.
 
----
 
-## 🚀 Features
 
-* Perform basic arithmetic operations: `+`, `-`, `×`, `÷`
-* Supports decimal numbers
-* Clear (C) button to reset input
-* Responsive and easy-to-use UI
+🚀 Features
 
----
+Perform basic arithmetic operations: `+`, `-`, `×`, `÷`
+Supports decimal numbers
+Clear (C) button to reset input
+Responsive and easy-to-use UI
 
-## 🛠️ Technologies Used
 
-* **React** (with Vite for fast build and dev server)
-* **JavaScript (ES6+)**
-* **CSS**
 
----
+🛠️ Technologies Used
 
-## 📸 Screenshots
+ React (with Vite for fast build and dev server)
+JavaScript (ES6+)
+CSS
 
-> Add your project screenshots here
 
-Example:
 
-![Calculator Screenshot](./screenshots/calculator-preview.png)
+📸 Screenshots
 
-*(Create a `screenshots` folder inside your project and place images there.)*
 
----
 
-## 📦 Installation & Setup
+ 📦 Installation & Setup
 
 1. Clone the repository:
 
-   ```bash
+   
    git clone https://github.com/<your-username>/my-calculator.git
    cd my-calculator
-   ```
+   
 
 2. Install dependencies:
 
-   ```bash
+   
    npm install
-   ```
+   
 
 3. Start the development server:
 
-   ```bash
+   
    npm run dev
-   ```
+   
 
 4. Open your browser at:
 
-   ```
+   
    http://localhost:5173/
-   ```
 
----
 
-## 📂 Project Structure
+
+📂 Project Structure
 
 ```
 my-calculator/
@@ -84,16 +75,16 @@ my-calculator/
 
 ---
 
-## 🔮 Future Improvements
+🔮 Future Improvements
 
-* Add keyboard support for input
-* Implement scientific functions (√, %, ^)
-* Show history of calculations
-* Dark/Light theme toggle
+Add keyboard support for input
+Implement scientific functions (√, %, ^)
+Show history of calculations
+Dark/Light theme toggle
 
----
 
-## 👨‍💻 Author
+
+👨‍💻 Author
 
 Ayush Patel
 [GitHub](https://github.com/your-username)
