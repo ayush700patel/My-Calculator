@@ -1,16 +1,101 @@
-# React + Vite
+# My Calculator 🧮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive calculator built using **React + Vite**.
+This project demonstrates how to create a basic calculator app with modern frontend tools.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* Perform basic arithmetic operations: `+`, `-`, `×`, `÷`
+* Supports decimal numbers
+* Clear (C) button to reset input
+* Responsive and easy-to-use UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React** (with Vite for fast build and dev server)
+* **JavaScript (ES6+)**
+* **CSS**
+
+---
+
+## 📸 Screenshots
+
+> Add your project screenshots here
+
+Example:
+
+![Calculator Screenshot](./screenshots/calculator-preview.png)
+
+*(Create a `screenshots` folder inside your project and place images there.)*
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/<your-username>/my-calculator.git
+   cd my-calculator
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser at:
+
+   ```
+   http://localhost:5173/
+   ```
+
+---
+
+## 📂 Project Structure
+
+```
+my-calculator/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── assets/
+│       └── react.svg
+├── screenshots/
+│   └── calculator-preview.png   <-- your screenshot here
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🔮 Future Improvements
+
+* Add keyboard support for input
+* Implement scientific functions (√, %, ^)
+* Show history of calculations
+* Dark/Light theme toggle
+
+---
+
+## 👨‍💻 Author
+
+Ayush Patel
+[GitHub](https://github.com/your-username)
+
+---
