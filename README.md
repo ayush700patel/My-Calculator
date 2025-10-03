@@ -24,13 +24,13 @@ This project demonstrates how to create a basic calculator app with modern front
 
 ## 📸 Screenshots
 
-> Add your project screenshots here
 
-Example:
 
-![Calculator Screenshot](./screenshots/calculator-preview.png)
+<img width="1847" height="819" alt="Screenshot (1567)" src="https://github.com/user-attachments/assets/95651f06-0a51-41db-a043-c776016e2664" />
+<img width="1856" height="851" alt="Screenshot (1569)" src="https://github.com/user-attachments/assets/71623281-73c1-4d7c-9a76-98c743f6199f" />
 
-*(Create a `screenshots` folder inside your project and place images there.)*
+
+
 
 ---
 
