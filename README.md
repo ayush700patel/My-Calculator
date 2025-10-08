@@ -96,6 +96,6 @@ my-calculator/
 ## 👨‍💻 Author
 
 Ayush Patel
-[GitHub](https://github.com/your-username)
+[GitHub](https://github.com/ayush700patel)
 
 ---
